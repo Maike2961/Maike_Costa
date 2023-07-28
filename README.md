@@ -26,7 +26,7 @@
 </div>
 
 <br><br>
-## Rede Sociais!
+## 💬 Rede Sociais!
 
 <div> 
   <a href="https://instagram.com/mayki_costa_silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
