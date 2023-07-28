@@ -34,3 +34,4 @@
   <a href="https://www.twitch.tv/arexmorg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
+![snake-animation](https://github.com/Maike2961/Maike2961/blob/output/github-contribuition-grid-snake.svg)
